@@ -1,0 +1,14 @@
+
+.background {
+    height: 100%;
+    width: 100%;
+    background-color: aquamarine;
+    background-repeat: no-repeat;
+    /* background-image: 'url(https://source.unsplash.com/random)', */
+    background-size: cover;
+    background-position: center;
+      
+}
+
+.button {
+}
